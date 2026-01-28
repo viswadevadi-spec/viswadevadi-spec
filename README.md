@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi  I'm Viswa
 
-<!--
-**viswadevadi-spec/viswadevadi-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working on projects that combine **Maths and AI**. 
+I’m currently learning **Azure AI** and building applications using my knowledge of **mathematics, statistics, and machine learning**.
+I like creating small but useful **AI-based apps and micro-SaaS ideas**,
+and I have experience with **Python, C#, and SQL**.
 
-Here are some ideas to get you started:
+I also hold an **Oracle Data Science Professional certification**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m working on an app using **Gemini Workspace** that converts **English images to Telugu text**, extracts **text from Telugu images**, and translates **between Telugu and English**.
+I’m also curious about **Quantum Computing** and learning it step by step as part of my long-term goals.
+
+Thanks for stopping by! Feel free to explore my projects 🙂
+
+
+⭐ Feel free to explore my repositories and connect!
