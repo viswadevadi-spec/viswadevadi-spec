@@ -1,16 +1,26 @@
-# Hi  I'm Viswa
+# Hi I'm Viswa
 
-I enjoy working on projects that combine **Maths and AI**. 
-I’m currently learning **Azure AI** and building applications using my knowledge of **mathematics, statistics, and machine learning**.
-I like creating small but useful **AI-based apps and micro-SaaS ideas**,
-and I have experience with **Python, C#, and SQL**.
+I enjoy working on projects that combine **Maths and AI**. I’m currently learning **Azure AI** and building things using my knowledge of **mathematics, statistics, and machine learning**.
 
-I also hold an **Oracle Data Science Professional certification**.
+I like creating small but useful **AI-based apps and micro-SaaS ideas**. I have experience with **Python, C#, and SQL**, and I’m also curious about **Quantum Computing** and learning it step by step.
 
-Right now, I’m working on an app using **Gemini Workspace** that converts **English images to Telugu text**, extracts **text from Telugu images**, and translates **between Telugu and English**.
-I’m also curious about **Quantum Computing** and learning it step by step as part of my long-term goals.
+Right now, I’m working on an app using **Gemini Workspace** that can:
+- Convert English images to Telugu text  
+- Extract text from Telugu images  
+- Translate between Telugu and English  
 
-Thanks for stopping by! Feel free to explore my projects 🙂
+##  Skills
+- Python, C#, SQL  
+- Machine Learning  
+- Basic NLP & Image-to-Text  
+- Azure AI  
 
+##  Certifications
+- **Oracle Data Science Professional**
+  
+##  What I’m Learning
+- Azure AI services  
+- Building AI agents  
+- Quantum Computing  
 
-⭐ Feel free to explore my repositories and connect!
+Thanks for stopping by! Feel free to check out my projects 
